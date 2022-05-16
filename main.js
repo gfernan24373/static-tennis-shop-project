@@ -22,7 +22,7 @@ jQuery('document').ready(function($){
 
 });
 
-/*Get the modal
+// Get the modal
 let modal = document.querySelectorAll(".modal");
 
 // Get the button that opens the modal
@@ -46,4 +46,4 @@ window.onclick = function(event) {
   if (event.target.style.display == "block") {
     event.target.style.display = "none";
   }
-}*/
+}
